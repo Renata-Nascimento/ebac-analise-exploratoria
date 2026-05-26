@@ -32,4 +32,4 @@ Nessa análise podemos observar o volume de entregas associadas a cada hub e sua
 </p>
 
 ## 🔗 Link para o Notebook
-[Clique aqui para abrir o projeto no Google Colab](https://colab.research.google.com/github/Renata-Nascimento/ebac-analise-exploratoria/blob/main/Profiss%C3%A3o_Analista_de_dados_M16_1_Exerc%C3%ADcio.ipynb)
+[Clique aqui para abrir o projeto no Kaggle](https://www.kaggle.com/code/renatarnascimento/analise-exploratoria-loggi/edit/run/315060834)
